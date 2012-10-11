@@ -6,7 +6,7 @@ Repo with Visual Studio and MonoDevelop settings for flipping from Visual Studio
 For MonoDevelop, unzip the file and put the folder in:
 
 - Mac ~/Library/Preferences/MonoDevelop-{version}/
-- Windows ~/AppData/Roaming/MonoDevelop-{version}/Configz
+- Windows ~/AppData/Roaming/MonoDevelop-{version}/Config
 - Linux ~/.config/MonoDevelop-{version}/
 
 See here: http://monodevelop.com/developers/articles/user_profiles
